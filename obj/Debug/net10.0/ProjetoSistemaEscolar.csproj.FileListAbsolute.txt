@@ -1,0 +1,15 @@
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\bin\Debug\net10.0\ProjetoSistemaEscolar.exe
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\bin\Debug\net10.0\ProjetoSistemaEscolar.deps.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\bin\Debug\net10.0\ProjetoSistemaEscolar.runtimeconfig.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\bin\Debug\net10.0\ProjetoSistemaEscolar.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\bin\Debug\net10.0\ProjetoSistemaEscolar.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ProjetoSistemaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ProjetoSistemaEscolar.AssemblyInfoInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ProjetoSistemaEscolar.AssemblyInfo.cs
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ProjetoSistemaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ProjetoSistemaEscolar.sourcelink.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ProjetoSistemaEscolar.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\refint\ProjetoSistemaEscolar.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ProjetoSistemaEscolar.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ProjetoSistemaEscolar.genruntimeconfig.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoSistemaEscolar\ProjetoSistemaEscolar\obj\Debug\net10.0\ref\ProjetoSistemaEscolar.dll
